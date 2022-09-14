@@ -1,5 +1,5 @@
 function saludar() {
-    alert("Bienvenido 👋")
+    alert("Bienvenido");
 }
 
 saludar();
